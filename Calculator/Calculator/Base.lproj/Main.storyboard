@@ -83,7 +83,7 @@
                                 <rect key="frame" x="359" y="49" width="103" height="130"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <state key="normal" title="✕"/>
+                                <state key="normal" title="×"/>
                                 <connections>
                                     <action selector="operate:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Nve-0H-BC3"/>
                                 </connections>
